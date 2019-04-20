@@ -1,0 +1,4 @@
+#Tue Mar 26 09:55:59 SGT 2019
+base.0=C\:\\Users\\User\\Documents\\Android\\newsbeamer_ads\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+path.0=classes.dex
+renamed.0=classes.dex
