@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Mar 26 09:55:59 SGT 2019
+#Fri May 24 10:47:06 SGT 2019
 0.baseType=DIRECTORY
 0.base=C\:\\Users\\User\\Documents\\Android\\newsbeamer_ads\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
 0.path=classes.dex

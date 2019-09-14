@@ -14,8 +14,8 @@ android {
         applicationId "com.jrcdesign.newsbeamer"
         minSdkVersion 22
         targetSdkVersion 28
-        versionCode 505
-        versionName 'post'
+        versionCode 511
+        versionName 'sydney fix'
     }
 
 

@@ -287,6 +287,7 @@
         <item>BBC News</item>
         <item>BBC Sport</item>
         <item>Bild.de</item>
+        <item>Business Standard</item>
         <item>Caravan Magazine</item>
         <item>China Daily</item>
         <item>Cinco Dias</item>
@@ -321,6 +322,7 @@
         <item>"L'express"</item>
         <item>Le Monde</item>
         <item>Le Temps (subscription)</item>
+        <item>Lifehacker</item>
         <item>Live Mint</item>
         <item>Loksatta</item>
         <item>Los Angeles Times</item>
@@ -330,15 +332,17 @@
         <item>New Statesman</item>
         <item>Nikkei Business Online (subscription)</item>
         <item>Now Toronto</item>
+        <item>NZZ Webpaper</item>
         <item>O Globo</item>
         <item>PC World</item>
-        <item>Pocket</item>
+        <item>Pocket (subscription)</item>
         <item>Pravda</item>
         <item>Prospect Magazine (subscription)</item>
         <item> Süddeutsche.de</item>
         <item>Süddeutsche Zeitung (subscription)</item>
         <item>The Atlantic</item>
         <item>The Australian</item>
+        <item>The Baffler</item>
         <item>The Economist (subscription)</item>
         <item>The Economic Times India</item>
         <item>The Guardian</item>
@@ -347,14 +351,13 @@
         <item>The Independent</item>
         <item>The Irish Times</item>
         <item>The New York Times (subscription)</item>
-        <item>The New Yorker</item>
+        <item>New Yorker Magazine</item>
         <item>The Scotsman</item>
         <item>The Straits Times</item>
         <item>The Sydney Morning Herald</item>
         <item>The Telegraph (UK)</item>
         <item>The Times and Sunday Times (UK) (subscription)</item>
         <item>The Times of India</item>
-        <item>The Wall Street Journal (free)</item>
         <item>The Wall Street Journal (subscription)</item>
         <item>The Washington Post (subscription)</item>
         <item>The Week</item>
@@ -372,6 +375,7 @@
         <item>bbcnewsfast</item>
         <item>bbcsport_fast</item>
         <item>"Bild.de"</item>
+        <item>Business Standard</item>
         <item>Caravan Magazine</item>
         <item>chinadaily</item>
         <item>Cinco Dias</item>
@@ -406,6 +410,7 @@
         <item>"lexpress"</item>
         <item>Le Monde</item>
         <item>Le Temps</item>
+        <item>Lifehacker</item>
         <item>Live Mint</item>
         <item>"Loksatta_1000"</item>
         <item>Los Angeles Times</item>
@@ -415,15 +420,17 @@
         <item>New Statesman</item>
         <item>Nikkei Business Online</item>
         <item>Now Toronto</item>
+        <item>NZZ Webpaper</item>
         <item>O Globo</item>
         <item>PCWorld</item>
-        <item>Pocket</item>
+        <item>Pocket (subscription)</item>
         <item>Pravda</item>
         <item>Prospect Magazine (subscription)</item>
         <item>"sudd"</item>
         <item>sud</item>
         <item>The Atlantic</item>
         <item>The Australian</item>
+        <item>"baffler"</item>
         <item>The Economist</item>
         <item>The Economic Times India</item>
         <item>The Guardian and The Observer</item>
@@ -432,15 +439,14 @@
         <item>The Independent</item>
         <item>The Irish Times</item>
         <item>The New York Times</item>
-        <item>The New Yorker</item>
+        <item>New Yorker Magazine</item>
         <item>The Scotsman</item>
         <item>The Straits Times</item>
         <item>The Sydney Morning Herald</item>
         <item>Telegraph.co.uk</item>
         <item>The Times &amp; Sunday Times (UK)</item>
         <item>The Times of India</item>
-        <item>The Wall Street Journal</item>
-        <item>"wsj_JRC"</item>
+        <item>The Wall Street Journal (subscription)</item>
         <item>The Washington Post</item>
         <item>TheWeek.com</item>
         <item>Time</item>

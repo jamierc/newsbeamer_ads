@@ -2,8 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.jrcdesign.newsbeamer"
     android:targetSandboxVersion="2"
-    android:versionCode="505"
-    android:versionName="post" >
+    android:versionCode="511"
+    android:versionName="sydney fix" >
 
     <uses-sdk
         android:minSdkVersion="22"

@@ -12,12 +12,12 @@
         "source": "C:\\Users\\User\\Documents\\Android\\newsbeamer_ads\\app\\src\\main\\res\\layout\\main.xml"
     },
     {
-        "merged": "C:\\Users\\User\\Documents\\Android\\newsbeamer_ads\\app\\build\\intermediates\\res\\merged\\release\\layout_help.xml.flat",
-        "source": "C:\\Users\\User\\Documents\\Android\\newsbeamer_ads\\app\\src\\main\\res\\layout\\help.xml"
-    },
-    {
         "merged": "C:\\Users\\User\\Documents\\Android\\newsbeamer_ads\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4_exo_icon_next.png.flat",
         "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.8.3.aar\\be725de68aca5f98c318751cba991c68\\res\\drawable-ldpi-v4\\exo_icon_next.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Documents\\Android\\newsbeamer_ads\\app\\build\\intermediates\\res\\merged\\release\\layout_help.xml.flat",
+        "source": "C:\\Users\\User\\Documents\\Android\\newsbeamer_ads\\app\\src\\main\\res\\layout\\help.xml"
     },
     {
         "merged": "C:\\Users\\User\\Documents\\Android\\newsbeamer_ads\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_exo_controls_repeat_one.png.flat",
@@ -48,16 +48,16 @@
         "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.8.3.aar\\be725de68aca5f98c318751cba991c68\\res\\drawable-xxhdpi-v4\\exo_edit_mode_logo.png"
     },
     {
-        "merged": "C:\\Users\\User\\Documents\\Android\\newsbeamer_ads\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_exo_controls_shuffle.png.flat",
-        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.8.3.aar\\be725de68aca5f98c318751cba991c68\\res\\drawable-hdpi-v4\\exo_controls_shuffle.png"
+        "merged": "C:\\Users\\User\\Documents\\Android\\newsbeamer_ads\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\b6c91422067bd73530cd05815552a979\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
         "merged": "C:\\Users\\User\\Documents\\Android\\newsbeamer_ads\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_exo_controls_fullscreen_enter.xml.flat",
         "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.8.3.aar\\be725de68aca5f98c318751cba991c68\\res\\drawable-anydpi-v21\\exo_controls_fullscreen_enter.xml"
     },
     {
-        "merged": "C:\\Users\\User\\Documents\\Android\\newsbeamer_ads\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\b6c91422067bd73530cd05815552a979\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+        "merged": "C:\\Users\\User\\Documents\\Android\\newsbeamer_ads\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_exo_controls_shuffle.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.8.3.aar\\be725de68aca5f98c318751cba991c68\\res\\drawable-hdpi-v4\\exo_controls_shuffle.png"
     },
     {
         "merged": "C:\\Users\\User\\Documents\\Android\\newsbeamer_ads\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4_exo_icon_rewind.png.flat",
@@ -96,16 +96,16 @@
         "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.8.3.aar\\be725de68aca5f98c318751cba991c68\\res\\drawable-xxhdpi-v4\\exo_icon_pause.png"
     },
     {
-        "merged": "C:\\Users\\User\\Documents\\Android\\newsbeamer_ads\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\b6c91422067bd73530cd05815552a979\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+        "merged": "C:\\Users\\User\\Documents\\Android\\newsbeamer_ads\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_exo_controls_repeat_all.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.8.3.aar\\be725de68aca5f98c318751cba991c68\\res\\drawable-mdpi-v4\\exo_controls_repeat_all.png"
     },
     {
         "merged": "C:\\Users\\User\\Documents\\Android\\newsbeamer_ads\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_exo_edit_mode_logo.png.flat",
         "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.8.3.aar\\be725de68aca5f98c318751cba991c68\\res\\drawable-xhdpi-v4\\exo_edit_mode_logo.png"
     },
     {
-        "merged": "C:\\Users\\User\\Documents\\Android\\newsbeamer_ads\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_exo_controls_repeat_all.png.flat",
-        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-ui-2.8.3.aar\\be725de68aca5f98c318751cba991c68\\res\\drawable-mdpi-v4\\exo_controls_repeat_all.png"
+        "merged": "C:\\Users\\User\\Documents\\Android\\newsbeamer_ads\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\b6c91422067bd73530cd05815552a979\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "C:\\Users\\User\\Documents\\Android\\newsbeamer_ads\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
